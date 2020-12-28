@@ -1,0 +1,4 @@
+{
+  "adminName": "Ejemplo NgRx",
+  "permissions": ["users"]
+}
